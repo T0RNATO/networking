@@ -49,9 +49,10 @@ div {
   line-height: 35px;
 }
 #caption {
-  position: absolute;
-  top: 520px;
-  left: 560px;
+  float: right;
+  position: relative;
+  left: -240px;
+  top: 100px;
   font-size: 10px;
   color: grey;
 }
