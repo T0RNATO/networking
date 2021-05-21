@@ -29,8 +29,9 @@ html {
 img {
   width: 150px;
   float: right;
-  display: inline-block;
+  display: inline;
   margin-right: 100px;
+  transition: 1s;
 }
 p {
   width: 800px;
@@ -46,4 +47,11 @@ div {
   text-align: center;
   color: white;
   line-height: 35px;
+}
+#caption {
+  position: absolute;
+  top: 520px;
+  left: 560px;
+  font-size: 10px;
+  color: grey;
 }
