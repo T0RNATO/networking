@@ -51,7 +51,7 @@ div {
 #caption {
   float: right;
   position: relative;
-  left: -240px;
+  left: 90px;
   top: 100px;
   font-size: 10px;
   color: grey;
