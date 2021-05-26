@@ -47,6 +47,8 @@ div {
   text-align: center;
   color: white;
   line-height: 35px;
+  margin-right: 0px;
+  padding: 0px;
 }
 #caption {
   float: right;
