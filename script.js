@@ -13,4 +13,4 @@ function go() {
     )
   }
 }
-window.onload = go();
+window.onload = go;
